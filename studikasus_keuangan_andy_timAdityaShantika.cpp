@@ -1,3 +1,6 @@
+//* Nama : Aditya Oryza Mahendra *//
+//*        Shantika Adila Putri *//
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
